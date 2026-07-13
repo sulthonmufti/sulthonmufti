@@ -16,7 +16,7 @@
 
 <br/>
 
-## <img src="assets/negi-custom.png" width="20"/> Tentang Saya
+## <img src="assets/negi-custom.png" width="20"/> About Me
 
 I started out with a background in UI/UX design before moving into web development. My journey began as a frontend developer, and as my curiosity grew, I expanded into backend development as well, which naturally led me to where I am now: a full stack developer.
 
@@ -66,7 +66,7 @@ Looking ahead, I'm interested in branching out into mobile development, with a p
 <img src="https://img.shields.io/badge/C%2B%2B-39C5BB?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-52C7AD?style=flat-square&logo=markdown&logoColor=white"/>
 
-**Tools & Lainnya**
+**Tools & Others**
 
 <img src="https://img.shields.io/badge/Git-0B3D39?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-12564E?style=flat-square&logo=github&logoColor=white"/>
@@ -82,7 +82,7 @@ Looking ahead, I'm interested in branching out into mobile development, with a p
 
 ---
 
-## <img src="assets/negi-custom.png" width="20"/> Statistik
+## <img src="assets/negi-custom.png" width="20"/> Statistics
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Looking ahead, I'm interested in branching out into mobile development, with a p
 <br/>
 
 <a href="https://wakatime.com/@54955aa0-f6fc-442c-a9a9-5ad1019087d3">
-  <img src="https://wakatime.com/badge/user/54955aa0-f6fc-442c-a9a9-5ad1019087d3.svg" alt="Total waktu coding sejak tercatat di WakaTime" />
+  <img src="https://wakatime.com/badge/user/54955aa0-f6fc-442c-a9a9-5ad1019087d3.svg" alt="Total coding time since recorded on WakaTime" />
 </a>
 
 <!--START_SECTION:waka-->
