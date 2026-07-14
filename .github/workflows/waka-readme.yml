@@ -1,0 +1,21 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Jalan otomatis setiap hari jam 00:00 UTC (07:00 WIB)
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-readme:
+    name: Update README dengan statistik WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          SECTION_NAME: "waka"
+          BLOCKS: "▓▓▓░░░░░░░"
+          CODE_LANG: rust
+          TIME_RANGE: "last_7_days"
