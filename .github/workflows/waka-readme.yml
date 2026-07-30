@@ -18,4 +18,4 @@ jobs:
           SECTION_NAME: "waka"
           BLOCKS: "▓▓▓░░░░░░░"
           CODE_LANG: rust
-          TIME_RANGE: "last_7_days"
+          TIME_RANGE: "all_time"
