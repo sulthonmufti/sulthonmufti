@@ -114,7 +114,7 @@ Text              7 hrs 11 mins         ░░▓▓▓▓▓▓▓▓▓▓▓�
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sulthon-mufti" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-sulthon-mufti/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1B7A6E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/sulthon2042" target="_blank">
