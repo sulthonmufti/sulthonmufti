@@ -97,11 +97,11 @@ Looking ahead, I'm interested in branching out into mobile development, with a p
 <!--START_SECTION:waka-->
 
 ```rust
-TypeScript                 58 hrs 7 mins         ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   24.55 %
-JavaScript                 53 hrs 4 mins         ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   22.41 %
-Java                       33 hrs 51 mins        ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   14.30 %
-PHP                        25 hrs 36 mins        ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   10.81 %
-Other                      11 hrs 19 mins        ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   04.78 %
+TypeScript                 59 hrs 14 mins        ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   24.71 %
+JavaScript                 53 hrs 4 mins         ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   22.13 %
+Java                       33 hrs 51 mins        ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   14.12 %
+PHP                        26 hrs 50 mins        ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   11.19 %
+Other                      11 hrs 37 mins        ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   04.85 %
 ```
 
 <!--END_SECTION:waka-->
